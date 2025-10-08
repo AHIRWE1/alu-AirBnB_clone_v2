@@ -140,3 +140,33 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 (hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'name': 'Fred the Frog', 'age': 9, 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
 <br>
+
+
+
+# AirBnB Clone - Version 2
+
+This project is a continuation of the AirBnB clone, focusing on integrating a database, RESTful API, and storage engines.
+
+---
+
+## Project Fork Information
+This repository is a fork of the original Holberton/ALU project: **AirBnB_clone_v2**.
+
+### Maintainer
+- **Name:** Gabriella Ange Ahirwe
+- **GitHub:** [@AHIRWE1](https://github.com/AHIRWE1/alu-AirBnB_clone_v2.git)
+- **Role:** Solo Developer for ALU Project
+
+### 🧑‍💻 Original Authors
+
+- Guillaume
+- John Doe
+- etc.
+
+---
+
+## 🧠 What’s new in my version
+- Updated README.md
+- Fixed environment setup issues
+- Added better logging and comments
+- Improved testing setup
